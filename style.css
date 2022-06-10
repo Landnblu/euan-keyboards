@@ -5,6 +5,15 @@
   padding-top: 10px;
 }
 
+p {
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
 body {
   background-color: antiquewhite;
 }
