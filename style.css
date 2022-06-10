@@ -1,0 +1,92 @@
+.title {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 69px;
+  padding-top: 10px;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  position: absolute;
+  top: 0px;
+  right: 0px;  
+}
+
+.indexdef {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+.keebpicindex {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 7px;
+  height: 305.2px;
+  width: 806px;
+}
+.aboutlink {
+  padding-right: 10px;
+}
+
+.commsdef {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+.shopdef {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  padding-left: 225px;
+  padding-right: 225px;
+}
+
+.pricesdef {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+.aboutdef {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
